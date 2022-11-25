@@ -8,5 +8,5 @@ function setup()
 
 function loadMusic()
 {
-    musicFile.play();
+    musicFile.play(); //문빈산하
 }
